@@ -2,7 +2,7 @@
 
 We are a quantitative investment firm. Data and code are how we understand markets.
 
-Open-source work we have had merged and tools we have built are on [inverteum.com/coding](https://www.inverteum.com/coding/).
+We do pro bono work on open source projects.
 
 ### Open-source contributions
 
