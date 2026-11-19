@@ -7,6 +7,7 @@ Open-source work we have had merged and tools we have built are on [inverteum.co
 ### Open-source contributions
 
 - [core-js #1590](https://github.com/zloirock/core-js/pull/1590) — A library that helps modern JavaScript work the same way in different browsers. ([9fd8283](https://github.com/zloirock/core-js/commit/9fd82832de940a9642fefb3527ccf7c338f58c00))
+- [Brighter #4763](https://github.com/BrighterCommand/Brighter/pull/4763) — A .NET command processor and messaging framework for sending and handling commands, in-process or across services. ([5bc38b3](https://github.com/BrighterCommand/Brighter/commit/5bc38b39b0618e3268f378d4c7f505250447034c))
 - [couch-tv #275](https://github.com/Seagey/couch-tv/pull/275) — A phone-controlled TV home screen and remote that replaces the built-in smart-TV interface. ([6c50e8c](https://github.com/Seagey/couch-tv/commit/6c50e8c2f042892f8c61ad3237d6df61f31b6921))
 - [rockpack #126](https://github.com/AlexSergey/rockpack/pull/126) — A toolkit for starting React websites quickly, with little setup, server-rendered pages, and automatic code checks. ([492425f](https://github.com/AlexSergey/rockpack/commit/492425ff16b0d0983c1b9e5440f40a7db4acca67))
 - [lgpd-skills #12](https://github.com/goul4rt/lgpd-skills/pull/12) — A toolkit of agent skills for LGPD privacy auditing and engineering in software projects. ([d257960](https://github.com/goul4rt/lgpd-skills/commit/d257960de9f3f621cbd59662ea2b77ecf7d6e167))
