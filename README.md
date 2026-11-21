@@ -7,6 +7,7 @@ We do pro bono work on open source projects.
 ### Open-source contributions
 
 - [core-js #1590](https://github.com/zloirock/core-js/pull/1590) — A library that helps modern JavaScript work the same way in different browsers. ([9fd8283](https://github.com/zloirock/core-js/commit/9fd82832de940a9642fefb3527ccf7c338f58c00))
+- [super-productivity #11858](https://github.com/super-productivity/super-productivity/pull/11858) — A cross-platform to-do list and time tracker with recurring tasks, time tracking, and sync. ([e322761](https://github.com/super-productivity/super-productivity/commit/e3227617691e31c8ed31d1a6e1a461d0f127cf98))
 - [pr-agent #5038](https://github.com/The-PR-Agent/pr-agent/pull/5038) — A pull-request reviewer that comments on code changes and suggests improvements. ([81d98a6](https://github.com/The-PR-Agent/pr-agent/commit/81d98a6c22b36b9fc364a5fbe0cbd33b8e9a2752))
 - [repowise #5940](https://github.com/repowise-dev/repowise/pull/5940) — A local codebase index that maps architecture, code health, and git history for coding agents and developers. ([e2723f2](https://github.com/repowise-dev/repowise/commit/e2723f2f99df2c5d3cd0dc0155df81ad068a22d4))
 - [Brighter #4763](https://github.com/BrighterCommand/Brighter/pull/4763) — A .NET command processor and messaging framework for sending and handling commands, in-process or across services. ([5bc38b3](https://github.com/BrighterCommand/Brighter/commit/5bc38b39b0618e3268f378d4c7f505250447034c))
