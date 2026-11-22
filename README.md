@@ -4,7 +4,7 @@ We are a quantitative investment firm. Data and code are how we understand marke
 
 We do pro bono work on open source projects.
 
-### Open-source contributions
+### Open source projects we've contributed to
 
 - [core-js #1590](https://github.com/zloirock/core-js/pull/1590) (26K⭐) — A library that helps modern JavaScript work the same way in different browsers. ([9fd8283](https://github.com/zloirock/core-js/commit/9fd82832de940a9642fefb3527ccf7c338f58c00))
 - [super-productivity #11858](https://github.com/super-productivity/super-productivity/pull/11858) (24K⭐) — A cross-platform to-do list and time tracker with recurring tasks, time tracking, and sync. ([e322761](https://github.com/super-productivity/super-productivity/commit/e3227617691e31c8ed31d1a6e1a461d0f127cf98))
