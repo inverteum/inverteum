@@ -6,6 +6,7 @@ We do pro bono work on open source projects.
 
 ### Open source projects we've contributed to
 
+- [planning-with-files #388](https://github.com/OthmanAdi/planning-with-files/pull/388) (28K⭐) — A file-based planning tool for AI coding agents, with crash-proof markdown plans and a completion gate. ([071a9bc](https://github.com/OthmanAdi/planning-with-files/commit/071a9bc141ac5612d8480a273b30c7f0051412a9))
 - [core-js #1590](https://github.com/zloirock/core-js/pull/1590) (26K⭐) — A library that helps modern JavaScript work the same way in different browsers. ([9fd8283](https://github.com/zloirock/core-js/commit/9fd82832de940a9642fefb3527ccf7c338f58c00))
 - [super-productivity #11858](https://github.com/super-productivity/super-productivity/pull/11858) (24K⭐) — A cross-platform to-do list and time tracker with recurring tasks, time tracking, and sync. ([e322761](https://github.com/super-productivity/super-productivity/commit/e3227617691e31c8ed31d1a6e1a461d0f127cf98))
 - [pr-agent #5038](https://github.com/The-PR-Agent/pr-agent/pull/5038) (17K⭐) — A pull-request reviewer that comments on code changes and suggests improvements. ([81d98a6](https://github.com/The-PR-Agent/pr-agent/commit/81d98a6c22b36b9fc364a5fbe0cbd33b8e9a2752))
