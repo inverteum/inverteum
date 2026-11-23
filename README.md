@@ -12,14 +12,14 @@ We do pro bono work on open source projects.
 - [pr-agent #5038](https://github.com/The-PR-Agent/pr-agent/pull/5038) (17K⭐) — A pull-request reviewer that comments on code changes and suggests improvements.
 - [repowise #5940](https://github.com/repowise-dev/repowise/pull/5940) (8K⭐) — A local codebase index that maps architecture, code health, and git history for coding agents and developers.
 - [Brighter #4763](https://github.com/BrighterCommand/Brighter/pull/4763) (2K⭐) — A .NET command processor and messaging framework for sending and handling commands, in-process or across services.
-- [crosstl #4862](https://github.com/CrossGL/crosstl/pull/4862), [#4864](https://github.com/CrossGL/crosstl/pull/4864), [#4870](https://github.com/CrossGL/crosstl/pull/4870) (2K⭐) — A translator for GPU shaders and compute kernels across GLSL, HLSL, Metal, SPIR-V, Slang, CUDA, HIP, and WGSL.
+- [crosstl #4870](https://github.com/CrossGL/crosstl/pull/4870) (2K⭐) — A translator for GPU shaders and compute kernels across GLSL, HLSL, Metal, SPIR-V, Slang, CUDA, HIP, and WGSL.
 - [couch-tv #275](https://github.com/Seagey/couch-tv/pull/275) (2K⭐) — A phone-controlled TV home screen and remote that replaces the built-in smart-TV interface.
 - [rockpack #126](https://github.com/AlexSergey/rockpack/pull/126) (1K⭐) — A toolkit for starting React websites quickly, with little setup, server-rendered pages, and automatic code checks.
 - [dreamcoder #285](https://github.com/GoDiao/dreamcoder/pull/285) — A locally run, multi-provider AI coding workspace.
 - [lgpd-skills #12](https://github.com/goul4rt/lgpd-skills/pull/12) — A toolkit of agent skills for LGPD privacy auditing and engineering in software projects.
 - [ctxvault #62](https://github.com/Filippo-Venturini/ctxvault/pull/62) — Local memory for AI agents, organized into vaults you compose, control, and query.
-- [dataprof #1371](https://github.com/AndreaBozzo/dataprof/pull/1371), [#1372](https://github.com/AndreaBozzo/dataprof/pull/1372), [#1373](https://github.com/AndreaBozzo/dataprof/pull/1373) — A data profiler for CSV, JSON, Parquet, and DataFrames, with a Rust core and a Python API.
-- [goldener #450](https://github.com/goldener-data/goldener/pull/450), [#457](https://github.com/goldener-data/goldener/pull/457), [#458](https://github.com/goldener-data/goldener/pull/458) — A Python library for data-centric orchestration across the AI lifecycle.
+- [dataprof #1372](https://github.com/AndreaBozzo/dataprof/pull/1372) — A data profiler for CSV, JSON, Parquet, and DataFrames, with a Rust core and a Python API.
+- [goldener #460](https://github.com/goldener-data/goldener/pull/460) — A Python library for data-centric orchestration across the AI lifecycle.
 
 ### Projects
 
