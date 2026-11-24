@@ -11,6 +11,7 @@ We do pro bono work on open source projects.
 - [super-productivity #11858](https://github.com/super-productivity/super-productivity/pull/11858) (24K⭐) — A cross-platform to-do list and time tracker with recurring tasks, time tracking, and sync.
 - [pr-agent #5038](https://github.com/The-PR-Agent/pr-agent/pull/5038) (17K⭐) — A pull-request reviewer that comments on code changes and suggests improvements.
 - [repowise #5940](https://github.com/repowise-dev/repowise/pull/5940) (8K⭐) — A local codebase index that maps architecture, code health, and git history for coding agents and developers.
+- [Agentero #1224](https://github.com/poco-ai/Agentero/pull/1224) (3K⭐) — A unified research workspace for humans and agents, with PDF Q&A and citations.
 - [Brighter #4763](https://github.com/BrighterCommand/Brighter/pull/4763) (2K⭐) — A .NET command processor and messaging framework for sending and handling commands, in-process or across services.
 - [crosstl #4870](https://github.com/CrossGL/crosstl/pull/4870) (2K⭐) — A translator for GPU shaders and compute kernels across GLSL, HLSL, Metal, SPIR-V, Slang, CUDA, HIP, and WGSL.
 - [couch-tv #275](https://github.com/Seagey/couch-tv/pull/275) (2K⭐) — A phone-controlled TV home screen and remote that replaces the built-in smart-TV interface.
